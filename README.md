@@ -1,10 +1,10 @@
 saltydroid-tracker
 ==================
 
-Public repository purely for placing feature requests and issues.
+Public repository purely for placing feature requests and issues. This is also a try-out to see if issue tracking like this is fruitful or not.
 
 How do I post an issue or feature request?
-=======================
+------------------------------------------
 First off, please search if your issue or request already exists. If it does not, create a new issue 
 <a href=https://github.com/LeslieAerts/saltydroid-tracker/issues/new>here</a>.
 
