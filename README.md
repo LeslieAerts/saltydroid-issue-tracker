@@ -1,6 +1,7 @@
 saltydroid-tracker
 ==================
-
+<a href=https://github.com/LeslieAerts/saltydroid-issue-tracker/issues>View all issues and features here</a>
+------------------------------------------------------------------------------------------------------------
 Public repository purely for placing feature requests and issues. This is also a try-out to see if issue tracking like this is fruitful or not.
 
 How do I post an issue or feature request?
